@@ -1,0 +1,126 @@
+### YamlMime:TableOfContent
+- name: BT
+  href: BT.md
+  items:
+  - name: Classes
+  - name: BTMain
+    href: BT.BTMain.md
+  - name: Colours
+    href: BT.Colours.md
+  - name: HotkeyObject
+    href: BT.HotkeyObject.md
+  - name: HoverWindow
+    href: BT.HoverWindow.md
+  - name: LogEventArgs
+    href: BT.LogEventArgs.md
+  - name: Logger
+    href: BT.Logger.md
+  - name: MQTTHandler
+    href: BT.MQTTHandler.md
+  - name: MediaConverter
+    href: BT.MediaConverter.md
+  - name: MqttMsg
+    href: BT.MqttMsg.md
+  - name: OverlayHandler
+    href: BT.OverlayHandler.md
+  - name: Interfaces
+  - name: IBTMain
+    href: BT.IBTMain.md
+  - name: Enums
+  - name: KeyModifier
+    href: BT.KeyModifier.md
+  - name: LogType
+    href: BT.LogType.md
+  - name: Delegates
+  - name: LogEventHandler
+    href: BT.LogEventHandler.md
+- name: BT.Base.Controls
+  href: BT.Base.Controls.md
+  items:
+  - name: Classes
+  - name: PluginManagerInstalledControl
+    href: BT.Base.Controls.PluginManagerInstalledControl.md
+- name: BT.Base.Forms
+  href: BT.Base.Forms.md
+  items:
+  - name: Classes
+  - name: LogOutputForm
+    href: BT.Base.Forms.LogOutputForm.md
+  - name: OverlayForm
+    href: BT.Base.Forms.OverlayForm.md
+  - name: PluginManagerBrowseControl
+    href: BT.Base.Forms.PluginManagerBrowseControl.md
+  - name: PluginManagerForm
+    href: BT.Base.Forms.PluginManagerForm.md
+- name: BT.Base.Forms.OptionForms
+  href: BT.Base.Forms.OptionForms.md
+  items:
+  - name: Classes
+  - name: GeneralOptions
+    href: BT.Base.Forms.OptionForms.GeneralOptions.md
+  - name: PluginOptions
+    href: BT.Base.Forms.OptionForms.PluginOptions.md
+- name: BT.Base.Plugins
+  href: BT.Base.Plugins.md
+  items:
+  - name: Classes
+  - name: PluginManifest
+    href: BT.Base.Plugins.PluginManifest.md
+- name: BT.Converters
+  href: BT.Converters.md
+  items:
+  - name: Classes
+  - name: CurrencyConverter
+    href: BT.Converters.CurrencyConverter.md
+  - name: ImageConverter
+    href: BT.Converters.ImageConverter.md
+  - name: UnitConverter
+    href: BT.Converters.UnitConverter.md
+- name: BT.Converters.BT
+  href: BT.Converters.BT.md
+  items:
+  - name: Classes
+  - name: TimezoneConverter
+    href: BT.Converters.BT.TimezoneConverter.md
+- name: BT.Forms
+  href: BT.Forms.md
+  items:
+  - name: Classes
+  - name: BTMainForm
+    href: BT.Forms.BTMainForm.md
+  - name: CmdForm
+    href: BT.Forms.CmdForm.md
+  - name: DeviceInfoForm
+    href: BT.Forms.DeviceInfoForm.md
+  - name: OptionsForm
+    href: BT.Forms.OptionsForm.md
+- name: BT.PInvoke
+  href: BT.PInvoke.md
+  items:
+  - name: Classes
+  - name: Helpers
+    href: BT.PInvoke.Helpers.md
+- name: BT.Plugins
+  href: BT.Plugins.md
+  items:
+  - name: Classes
+  - name: PluginHandler
+    href: BT.Plugins.PluginHandler.md
+  - name: PluginList
+    href: BT.Plugins.PluginList.md
+  - name: PluginObject
+    href: BT.Plugins.PluginObject.md
+- name: BT.Tools
+  href: BT.Tools.md
+  items:
+  - name: Classes
+  - name: SmartDataReader
+    href: BT.Tools.SmartDataReader.md
+  - name: SystemInfoReader
+    href: BT.Tools.SystemInfoReader.md
+- name: BTUpdater
+  href: BTUpdater.md
+  items:
+  - name: Classes
+  - name: BTUpdaterForm
+    href: BTUpdater.BTUpdaterForm.md
